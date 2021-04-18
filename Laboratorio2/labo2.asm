@@ -1,4 +1,5 @@
 org 100h
+;primera parte
 
 mov AL, 'M'
 mov [200h], AL
