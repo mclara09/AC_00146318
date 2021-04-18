@@ -10,6 +10,8 @@ mov [202h], AL
 mov AL, 'G'
 mov [203h], AL
 
+;segunda parte
+
 ;direccionamiento directo
 mov AX, [200h]
 
