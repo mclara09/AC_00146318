@@ -42,7 +42,7 @@ salir:
 iteracion:
     ADD BX, [200h+SI]
     INC SI 
-    LOOP iterar 
+    LOOP iteracion
     ret
     
 
