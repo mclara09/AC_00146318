@@ -17,6 +17,6 @@ org 100h
 iteracion:
     MUL CX
     INC SI 
-    LOOP iterar 
+    LOOP iteracion
     ret
     
